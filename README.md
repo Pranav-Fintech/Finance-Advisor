@@ -51,7 +51,7 @@ CoinGecko
   Free-tier friendly usage
 
 ## 🚀 Roadmap & Enhancements
-🧭 Product Features
+# 🧭 Product Features
 
   🔒 User authentication & data storage
   
@@ -64,7 +64,7 @@ CoinGecko
   🗣️ AI-powered chatbot (NLP-based)
   
 
-🧪 Technical Enhancements
+# 🧪 Technical Enhancements
 
   🗃️ PostgreSQL & Redis
   
