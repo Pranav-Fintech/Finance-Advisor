@@ -32,7 +32,7 @@ GET /api/forex-rate – Currency exchange info
 
 
 ## 💸 Financial Models Used
-# 📏 50/30/20 Budget Rule
+📏 50/30/20 Budget Rule
 50% Needs – Rent, groceries, insurance
 30% Wants – Travel, dining, entertainment
 20% Savings – Emergency funds, investments
@@ -44,21 +44,21 @@ GET /api/forex-rate – Currency exchange info
 🔴 Aggressive – High exposure to stocks, crypto, global assets
 
 ## 📉 API Rate Limits
-# Alpha Vantage
+Alpha Vantage
   25 daily / 5 per minute (Free Tier)
-# CoinGecko
+CoinGecko
   No API key required
   Free-tier friendly usage
 
 ## 🚀 Roadmap & Enhancements
-# 🧭 Product Features
+🧭 Product Features
   🔒 User authentication & data storage
   📊 Investment portfolio tracking
   📚 Financial literacy content
   📱 Native mobile apps (iOS & Android)
   🗣️ AI-powered chatbot (NLP-based)
 
-# 🧪 Technical Enhancements
+🧪 Technical Enhancements
   🗃️ PostgreSQL & Redis
   🔐 JWT Authentication
   🚥 CI/CD + Testing Suite
