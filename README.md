@@ -52,14 +52,25 @@ CoinGecko
 
 ## 🚀 Roadmap & Enhancements
 🧭 Product Features
+
   🔒 User authentication & data storage
+  
   📊 Investment portfolio tracking
+  
   📚 Financial literacy content
+  
   📱 Native mobile apps (iOS & Android)
+  
   🗣️ AI-powered chatbot (NLP-based)
+  
 
 🧪 Technical Enhancements
+
   🗃️ PostgreSQL & Redis
+  
   🔐 JWT Authentication
+  
   🚥 CI/CD + Testing Suite
+  
   📟 Monitoring & Logging
+  
