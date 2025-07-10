@@ -18,12 +18,12 @@
 
 
 ## 🔗 API Endpoints Overview
-# 📊 Budget & Tips
+📊 Budget & Tips
 POST /api/budget-allocation – Calculates income distribution
 GET /api/financial-tips – General financial advice
 
 
-# 📈 Investment & Market
+📈 Investment & Market
 POST /api/investment-advice – Custom investment strategies
 GET /api/market-data – Overall market summary
 GET /api/stock-quote/<symbol> – Real-time stock prices
