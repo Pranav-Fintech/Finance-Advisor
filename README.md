@@ -1,4 +1,4 @@
-🤖💸 # AI-Powered Finance Planning Chatbot
+#🤖💸AI-Powered Finance Planning Chatbot
 
 A comprehensive full-stack web application that provides personalized financial planning advice, budget allocation recommendations, and real-time market data integration.
 
