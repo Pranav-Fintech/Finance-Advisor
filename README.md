@@ -1,81 +1,38 @@
-# 🤖 AI-Powered Financial Planning Chatbot
+🤖💸 # AI-Powered Finance Planning Chatbot
 
+A comprehensive full-stack web application that provides personalized financial planning advice, budget allocation recommendations, and real-time market data integration.
 
-### A full-stack AI chatbot that helps users with personalized financial planning, budget recommendations, and live market insights. 💸📊
+## 📋 Features
 
-✨ Key Features
+### 🧠 Core Functionality
+- **🧮 Budget Allocation Calculator**: Implements the 50/30/20 rule for optimal budget distribution
+- **📈 Investment Advice Engine**: Provides personalized investment recommendations based on risk profiles
+- **📊 Real-time Market Data**: Integration with Alpha Vantage and CoinGecko APIs for live financial data
+- **💡 Interactive UI**: Clean, responsive design with progress bars and visualizations
+- **🧭 Multi-step Workflow**: Guided user experience from income input to investment advice
 
-💡 Financial Intelligence
+### ⚙️ Technical Features
+- **🧱 Full-Stack Architecture**: React frontend with Flask backend
+- **RESTful API Design**: Well-structured endpoints for all financial operations
+- **External API Integration**: Real-time data from multiple financial data providers
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Error Handling**: Comprehensive error handling and user feedback
 
-💰 Budget Calculator: Applies the 50/30/20 rule for income distribution
+## 🛠 Technology Stack
 
-📈 Investment Advice: Suggests portfolios based on risk levels
+### Frontend
+- **React 18**: Modern JavaScript framework for building user interfaces
+- **Vite**: Fast build tool and development server
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **Shadcn/UI**: High-quality React components
+- **Lucide Icons**: Beautiful icon library
 
-🧠 Live Market Data: Fetches stock, forex, and crypto data via APIs
+### Backend
+- **Flask**: Lightweight Python web framework
+- **Flask-CORS**: Cross-origin resource sharing support
+- **Flask-SQLAlchemy**: Database ORM (for future user data storage)
+- **Requests**: HTTP library for external API calls
 
-🧭 Guided Workflow: Simple multi-step interface for financial setup
-
-
-## 🧱 Technical Architecture
-🖼️ Frontend: React 18, Tailwind CSS, Vite, Shadcn/UI
-🔧 Backend: Flask, Flask-CORS, SQLAlchemy (future), Requests
-🌐 APIs: Alpha Vantage & CoinGecko
-
-
-## 🔗 API Endpoints Overview
-📊 Budget & Tips
-POST /api/budget-allocation – Calculates income distribution
-GET /api/financial-tips – General financial advice
-
-
-📈 Investment & Market
-POST /api/investment-advice – Custom investment strategies
-GET /api/market-data – Overall market summary
-GET /api/stock-quote/<symbol> – Real-time stock prices
-GET /api/crypto-prices – Live crypto data
-GET /api/forex-rate – Currency exchange info
-
-
-## 💸 Financial Models Used
-📏 50/30/20 Budget Rule
-50% Needs – Rent, groceries, insurance
-30% Wants – Travel, dining, entertainment
-20% Savings – Emergency funds, investments
-
-
-## 🎯 Investment Strategy by Risk Type
-🟢 Conservative – Bonds, FDs, large-cap stocks
-🟡 Moderate – Large/mid-cap stocks, crypto, gold
-🔴 Aggressive – High exposure to stocks, crypto, global assets
-
-## 📉 API Rate Limits
-Alpha Vantage
-  25 daily / 5 per minute (Free Tier)
-CoinGecko
-  No API key required
-  Free-tier friendly usage
-
-## 🚀 Roadmap & Enhancements
-# 🧭 Product Features
-
-  🔒 User authentication & data storage
-  
-  📊 Investment portfolio tracking
-  
-  📚 Financial literacy content
-  
-  📱 Native mobile apps (iOS & Android)
-  
-  🗣️ AI-powered chatbot (NLP-based)
-  
-
-# 🧪 Technical Enhancements
-
-  🗃️ PostgreSQL & Redis
-  
-  🔐 JWT Authentication
-  
-  🚥 CI/CD + Testing Suite
-  
-  📟 Monitoring & Logging
-  
+### External APIs
+- **Alpha Vantage**: Stock market data, forex rates, and economic indicators
+- **CoinGecko**: Cryptocurrency prices and market data
