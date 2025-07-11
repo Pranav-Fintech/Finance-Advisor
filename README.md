@@ -1,7 +1,7 @@
 # 🤖 AI-Powered Financial Planning Chatbot
 
 
-## A full-stack AI chatbot that helps users with personalized financial planning, budget recommendations, and live market insights. 💸📊
+### A full-stack AI chatbot that helps users with personalized financial planning, budget recommendations, and live market insights. 💸📊
 
 ✨ Key Features
 💡 Financial Intelligence
