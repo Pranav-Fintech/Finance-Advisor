@@ -4,10 +4,15 @@
 ### A full-stack AI chatbot that helps users with personalized financial planning, budget recommendations, and live market insights. 💸📊
 
 ✨ Key Features
+
 💡 Financial Intelligence
+
 💰 Budget Calculator: Applies the 50/30/20 rule for income distribution
+
 📈 Investment Advice: Suggests portfolios based on risk levels
+
 🧠 Live Market Data: Fetches stock, forex, and crypto data via APIs
+
 🧭 Guided Workflow: Simple multi-step interface for financial setup
 
 
